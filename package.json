@@ -27,14 +27,14 @@
   },
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/vrest-io/vutil/blob/master/LICENSE-MIT"
+    "url": "https://github.com/kewlvishnu/vutil/blob/master/LICENSE-MIT"
   }],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vrest-io/vutil.git"
+    "url": "https://github.com/kewlvishnu/vutil.git"
   },
   "keywords": [
     "vrest",
@@ -51,5 +51,5 @@
     "name": "vREST Team",
     "email": "team@vrest.io"
   },
-  "homepage": "https://github.com/vrest-io/vutil"
+  "homepage": "https://github.com/kewlvishnu/vutil"
 }
